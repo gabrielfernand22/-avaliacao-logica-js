@@ -1,0 +1,4 @@
+//idade minima
+let idade = 17
+
+console.log(idade>=18)
